@@ -1,6 +1,6 @@
 # wallpaperapp
 
-A new Flutter project.
+I have built a wallpaper app using Flutter, a framework known for beautiful user interfaces. To fuel the app with stunning visuals, I have integrated the Pexels API, granting access to a vast library of high-quality wallpapers. This allows users to browse through a wide variety of images and set them as their device wallpaper directly within the app.
 
 ## Getting Started
 
